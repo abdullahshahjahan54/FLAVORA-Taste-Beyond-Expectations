@@ -1,0 +1,6 @@
+{
+  "name": "FLAVORA – Taste Beyond Expectations",
+  "description": "Premium modern restaurant website with online food ordering, table reservations, chef specials, artisan menu, and live order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
